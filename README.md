@@ -1,8 +1,8 @@
 # Olá 👋
 
 ## Estudante: 
-**Segundo ano do ensino médio**
-**Curso Informática par Internet** pelo **_SENAI Rinaldo Campos Soares - Ipatinga/MG_** 
+- **Segundo ano do ensino médio**
+- **Curso Informática par Internet** pelo **_SENAI Rinaldo Campos Soares - Ipatinga/MG_** 
 
 # Unidades curriculares:
 ## Concluídas:
