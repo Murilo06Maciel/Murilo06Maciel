@@ -1,14 +1,14 @@
 ### Olá 👋
 
-<b>Instrutor Técnico</b> com foco em Informática e Desenvolvimento WEB na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/)</b>.
+<b>Aluno do curso técnicoInformática para a Internet pelo SENAI. Cursando segundo ano do ensino médio.</b>.
 
 <hr>
 
-- <b>Linguagens:</b> C#, Python e Ruby 
-- <b>Frameworks:</b> Angular, Bootstrap, Ruby On Rails e Zurb Foundation
-- <b>Ambiente:</b> Docker e Kubernetes
-- <b>Versionamento:</b> Git e Azure Repos DevOps
-- <b>Banco de Dados:</b> SQL Server e Oracle
+- <b>Linguagens:</b> C#
+- <b>Frameworks:</b>
+- <b>Ambiente:</b>
+- <b>Versionamento:</b>
+- <b>Banco de Dados:</b>
 
 
 
