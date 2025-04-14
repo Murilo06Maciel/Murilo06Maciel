@@ -6,6 +6,8 @@
 
 ## Linguagens usadas
 - **C#**
+- **HTLM**
+- **CSS**
   
 # Unidades curriculares:
 ## Concluídas:
